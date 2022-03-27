@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Made by Rob Mocci for A.V.R. -->
+<!-- https://patreon.com/rmocci -->
+
+<svg
+   width="1360"
+   height="960"
+   viewBox="0 0 1360 960"
+   version="1.1"
+   sodipodi:docname="round_pattern_draw.svg"
+   id="svg17"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2299">Round pattern</title>
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#2a2a2a"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="750px"
+     height="1140px"
+     borderlayer="true"
+     inkscape:zoom="2"
+     inkscape:cx="1281"
+     inkscape:cy="887.25"
+     inkscape:current-layer="bg"
+     id="namedview2"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     showborder="false"
+     inkscape:window-width="1303"
+     inkscape:window-height="745"
+     inkscape:window-x="55"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="bg"
+     transform="translate(2172,1028)">
+    <path
+       id="rect5132"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 3,0 c 0,1.108 0.892,2 2,2 v -2 z m -3,3 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 5,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5130"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2125,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 4,0 c 0,1.108 0.892,2 2,2 v -2 z m -4,4 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 6,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5128"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2105,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 5,0 c 0,1.108 0.892,2 2,2 v -2 z m -5,5 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 7,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5114"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2085,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 6,0 c 0,1.108 0.892,2 2,2 v -2 z m -6,6 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 8,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5116"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2065,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 7,0 c 0,1.108 0.892,2 2,2 v -2 z m -7,7 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 9,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5118"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2045,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 8,0 c 0,1.108 0.892,2 2,2 v -2 z m -8,8 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 10,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5120"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2015,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 9,0 c 0,1.108 0.892,2 2,2 v -2 z m -9,9 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 11,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5122"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1985,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 10,0 c 0,1.108 0.892,2 2,2 v -2 z m -10,10 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 12,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5124"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1955,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 11,0 c 0,1.108 0.892,2 2,2 v -2 z m -11,11 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 13,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5126"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1925,-994 v 2 c 1.108,0 2,-0.892 2,-2 z m 12,0 c 0,1.108 0.892,2 2,2 v -2 z m -12,12 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 14,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5150"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 13,0 c 0,1.108 0.892,2 2,2 v -2 z m -13,13 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 15,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5148"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2115,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 14,0 c 0,1.108 0.892,2 2,2 v -2 z m -14,14 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 16,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5146"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2085,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 15,0 c 0,1.108 0.892,2 2,2 v -2 z m -15,15 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 17,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5134"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2055,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 16,0 c 0,1.108 0.892,2 2,2 v -2 z m -16,16 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 18,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5136"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2025,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 17,0 c 0,1.108 0.892,2 2,2 v -2 z m -17,17 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 19,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5138"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1995,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 18,0 c 0,1.108 0.892,2 2,2 v -2 z m -18,18 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 20,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5140"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1965,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 19,0 c 0,1.108 0.892,2 2,2 v -2 z m -19,19 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 21,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5142"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1935,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 20,0 c 0,1.108 0.892,2 2,2 v -2 z m -20,20 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 22,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5144"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1895,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 21,0 c 0,1.108 0.892,2 2,2 v -2 z m -21,21 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 23,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5152"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1855,-964 v 2 c 1.108,0 2,-0.892 2,-2 z m 22,0 c 0,1.108 0.892,2 2,2 v -2 z m -22,22 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 24,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5170"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 23,0 c 0,1.108 0.892,2 2,2 v -2 z m -23,23 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 25,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5168"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2105,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 24,0 c 0,1.108 0.892,2 2,2 v -2 z m -24,24 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 26,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5166"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2065,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 25,0 c 0,1.108 0.892,2 2,2 v -2 z m -25,25 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 27,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5154"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2025,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 26,0 c 0,1.108 0.892,2 2,2 v -2 z m -26,26 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 28,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5156"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1985,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 27,0 c 0,1.108 0.892,2 2,2 v -2 z m -27,27 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 29,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5158"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1945,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 28,0 c 0,1.108 0.892,2 2,2 v -2 z m -28,28 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 30,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5160"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1895,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 29,0 c 0,1.108 0.892,2 2,2 v -2 z m -29,29 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 31,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5162"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1845,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 30,0 c 0,1.108 0.892,2 2,2 v -2 z m -30,30 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 32,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5164"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1795,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 31,0 c 0,1.108 0.892,2 2,2 v -2 z m -31,31 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 33,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5172"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1745,-924 v 2 c 1.108,0 2,-0.892 2,-2 z m 32,0 c 0,1.108 0.892,2 2,2 v -2 z m -32,32 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 34,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5190"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 33,0 c 0,1.108 0.892,2 2,2 v -2 z m -33,33 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 35,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5188"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2085,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 34,0 c 0,1.108 0.892,2 2,2 v -2 z m -34,34 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 36,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5186"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2025,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 35,0 c 0,1.108 0.892,2 2,2 v -2 z m -35,35 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 37,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5174"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1965,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 36,0 c 0,1.108 0.892,2 2,2 v -2 z m -36,36 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 38,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5176"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1905,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 37,0 c 0,1.108 0.892,2 2,2 v -2 z m -37,37 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 39,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5178"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1845,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 38,0 c 0,1.108 0.892,2 2,2 v -2 z m -38,38 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 40,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5180"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1785,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 39,0 c 0,1.108 0.892,2 2,2 v -2 z m -39,39 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 41,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5182"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1715,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 40,0 c 0,1.108 0.892,2 2,2 v -2 z m -40,40 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 42,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5184"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1645,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 41,0 c 0,1.108 0.892,2 2,2 v -2 z m -41,41 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 43,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5192"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1575,-864 v 2 c 1.108,0 2,-0.892 2,-2 z m 42,0 c 0,1.108 0.892,2 2,2 v -2 z m -42,42 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 44,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5210"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 43,0 c 0,1.108 0.892,2 2,2 v -2 z m -43,43 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 45,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5208"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2075,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 44,0 c 0,1.108 0.892,2 2,2 v -2 z m -44,44 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 46,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5206"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2005,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 45,0 c 0,1.108 0.892,2 2,2 v -2 z m -45,45 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 47,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5194"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1935,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 46,0 c 0,1.108 0.892,2 2,2 v -2 z m -46,46 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 48,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5196"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1865,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 47,0 c 0,1.108 0.892,2 2,2 v -2 z m -47,47 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 49,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5198"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1795,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 48,0 c 0,1.108 0.892,2 2,2 v -2 z m -48,48 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 50,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5200"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1715,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 49,0 c 0,1.108 0.892,2 2,2 v -2 z m -49,49 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 51,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5202"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1645,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 50,0 c 0,1.108 0.892,2 2,2 v -2 z m -50,50 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 52,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5204"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1575,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 51,0 c 0,1.108 0.892,2 2,2 v -2 z m -51,51 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 53,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5212"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1495,-794 v 2 c 1.108,0 2,-0.892 2,-2 z m 52,0 c 0,1.108 0.892,2 2,2 v -2 z m -52,52 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 54,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5230"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 53,0 c 0,1.108 0.892,2 2,2 v -2 z m -53,53 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 55,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5228"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2065,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 54,0 c 0,1.108 0.892,2 2,2 v -2 z m -54,54 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 56,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5226"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1985,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 55,0 c 0,1.108 0.892,2 2,2 v -2 z m -55,55 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 57,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5214"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1905,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 56,0 c 0,1.108 0.892,2 2,2 v -2 z m -56,56 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 58,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5216"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1815,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 57,0 c 0,1.108 0.892,2 2,2 v -2 z m -57,57 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 59,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5218"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1725,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 58,0 c 0,1.108 0.892,2 2,2 v -2 z m -58,58 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 60,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5220"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1635,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 59,0 c 0,1.108 0.892,2 2,2 v -2 z m -59,59 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 61,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5222"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1545,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 60,0 c 0,1.108 0.892,2 2,2 v -2 z m -60,60 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 62,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5224"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1455,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 61,0 c 0,1.108 0.892,2 2,2 v -2 z m -61,61 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 63,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5232"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1365,-704 v 2 c 1.108,0 2,-0.892 2,-2 z m 62,0 c 0,1.108 0.892,2 2,2 v -2 z m -62,62 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 64,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5250"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:11.9999;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 63,0 c 0,1.108 0.892,2 2,2 v -2 z m -63,63 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 65,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5248"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2045,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 64,0 c 0,1.108 0.892,2 2,2 v -2 z m -64,64 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 66,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5246"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1945,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 65,0 c 0,1.108 0.892,2 2,2 v -2 z m -65,65 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 67,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5234"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1845,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 66,0 c 0,1.108 0.892,2 2,2 v -2 z m -66,66 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 68,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5236"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1745,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 67,0 c 0,1.108 0.892,2 2,2 v -2 z m -67,67 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 69,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5238"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1635,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 68,0 c 0,1.108 0.892,2 2,2 v -2 z m -68,68 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 70,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5240"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1525,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 69,0 c 0,1.108 0.892,2 2,2 v -2 z m -69,69 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 71,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5242"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1415,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 70,0 c 0,1.108 0.892,2 2,2 v -2 z m -70,70 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 72,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5244"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1305,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 71,0 c 0,1.108 0.892,2 2,2 v -2 z m -71,71 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 73,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5252"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1195,-594 v 2 c 1.108,0 2,-0.892 2,-2 z m 72,0 c 0,1.108 0.892,2 2,2 v -2 z m -72,72 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 74,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5270"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:11.9999;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 73,0 c 0,1.108 0.892,2 2,2 v -2 z m -73,73 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 75,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5268"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2035,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 74,0 c 0,1.108 0.892,2 2,2 v -2 z m -74,74 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 76,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5266"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1925,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 75,0 c 0,1.108 0.892,2 2,2 v -2 z m -75,75 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 77,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5254"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1815,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 76,0 c 0,1.108 0.892,2 2,2 v -2 z m -76,76 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 78,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5256"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1705,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 77,0 c 0,1.108 0.892,2 2,2 v -2 z m -77,77 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 79,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5258"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1595,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 78,0 c 0,1.108 0.892,2 2,2 v -2 z m -78,78 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 80,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5260"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1485,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 79,0 c 0,1.108 0.892,2 2,2 v -2 z m -79,79 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 81,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5262"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1375,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 80,0 c 0,1.108 0.892,2 2,2 v -2 z m -80,80 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 82,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5264"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1265,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 81,0 c 0,1.108 0.892,2 2,2 v -2 z m -81,81 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 83,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5272"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1155,-474 v 2 c 1.108,0 2,-0.892 2,-2 z m 82,0 c 0,1.108 0.892,2 2,2 v -2 z m -82,82 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 84,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5290"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:11.9998;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2145,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 83,0 c 0,1.108 0.892,2 2,2 v -2 z m -83,83 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 85,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5288"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2025,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 84,0 c 0,1.108 0.892,2 2,2 v -2 z m -84,84 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 86,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5286"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1905,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 85,0 c 0,1.108 0.892,2 2,2 v -2 z m -85,85 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 87,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5274"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1785,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 86,0 c 0,1.108 0.892,2 2,2 v -2 z m -86,86 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 88,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5276"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1655,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 87,0 c 0,1.108 0.892,2 2,2 v -2 z m -87,87 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 89,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5278"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1525,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 88,0 c 0,1.108 0.892,2 2,2 v -2 z m -88,88 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 90,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5280"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1395,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 89,0 c 0,1.108 0.892,2 2,2 v -2 z m -89,89 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 91,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5282"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1255,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 90,0 c 0,1.108 0.892,2 2,2 v -2 z m -90,90 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 92,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5284"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1125,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 91,0 c 0,1.108 0.892,2 2,2 v -2 z m -91,91 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 93,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5292"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -985,-344 v 2 c 1.108,0 2,-0.892 2,-2 z m 92,0 c 0,1.108 0.892,2 2,2 v -2 z m -92,92 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 94,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5310"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:11.9998;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2146,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 93,0 c 0,1.108 0.892,2 2,2 v -2 z m -93,93 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 95,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5308"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -2026,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 94,0 c 0,1.108 0.892,2 2,2 v -2 z m -94,94 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 96,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5306"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1906,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 95,0 c 0,1.108 0.892,2 2,2 v -2 z m -95,95 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 97,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5294"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1786,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 96,0 c 0,1.108 0.892,2 2,2 v -2 z m -96,96 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 98,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5296"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1656,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 97,0 c 0,1.108 0.892,2 2,2 v -2 z m -97,97 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 99,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5298"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1516,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 98,0 c 0,1.108 0.892,2 2,2 v -2 z m -98,98 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 100,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5300"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1376,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 99,0 c 0,1.108 0.892,2 2,2 v -2 z m -99,99 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 101,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5302"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1236,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 100,0 c 0,1.108 0.892,2 2,2 v -2 z m -100,100 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 102,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5304"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1096,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 101,0 c 0,1.108 0.892,2 2,2 v -2 z m -101,101 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 103,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+    <path
+       id="rect5312"
+       style="color:#000000;overflow:visible;fill:#000000;stroke-width:12.0001;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -956,-204 v 2 c 1.108,0 2,-0.892 2,-2 z m 102,0 c 0,1.108 0.892,2 2,2 v -2 z m -102,102 v 2 h 2 c 0,-1.108 -0.892,-2 -2,-2 z m 104,0 c -1.108,0 -2,0.892 -2,2 h 2 z" />
+  </g>
+  <metadata
+     id="metadata130443">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Roberto Mocci</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>public domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:coverage>https://patreon.com/rmocci</dc:coverage>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Round pattern</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

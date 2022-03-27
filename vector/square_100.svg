@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Made by Rob Mocci for A.V.R. -->
+<!-- https://patreon.com/rmocci -->
+
+<svg
+   width="1600"
+   height="1120"
+   viewBox="0 0 1600 1120"
+   version="1.1"
+   sodipodi:docname="square_pattern_draw.svg"
+   id="svg17"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2385">Square</title>
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#2a2a2a"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="750px"
+     height="1140px"
+     borderlayer="true"
+     inkscape:zoom="1"
+     inkscape:cx="1323"
+     inkscape:cy="971.5"
+     inkscape:current-layer="bg"
+     id="namedview2"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     showborder="false"
+     inkscape:window-width="1303"
+     inkscape:window-height="745"
+     inkscape:window-x="55"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="bg"
+     transform="translate(1998,784)">
+    <path
+       id="rect10645"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-724 v 2 h 2 v -2 z m 3,0 v 2 h 2 v -2 z m -3,3 v 2 h 2 v -2 z m 3,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10653"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1927,-724 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m -4,4 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10661"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1907,-724 v 2 h 2 v -2 z m 5,0 v 2 h 2 v -2 z m -5,5 v 2 h 2 v -2 z m 5,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10669"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1887,-724 v 2 h 2 v -2 z m 6,0 v 2 h 2 v -2 z m -6,6 v 2 h 2 v -2 z m 6,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10677"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1857,-724 v 2 h 2 v -2 z m 7,0 v 2 h 2 v -2 z m -7,7 v 2 h 2 v -2 z m 7,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10685"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1827,-724 v 2 h 2 v -2 z m 8,0 v 2 h 2 v -2 z m -8,8 v 2 h 2 v -2 z m 8,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10693"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1787,-724 v 2 h 2 v -2 z m 9,0 v 2 h 2 v -2 z m -9,9 v 2 h 2 v -2 z m 9,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10701"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1747,-724 v 2 h 2 v -2 z m 10,0 v 2 h 2 v -2 z m -10,10 v 2 h 2 v -2 z m 10,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10709"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1707,-724 v 2 h 2 v -2 z m 11,0 v 2 h 2 v -2 z m -11,11 v 2 h 2 v -2 z m 11,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10717"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1667,-724 v 2 h 2 v -2 z m 12,0 v 2 h 2 v -2 z m -12,12 v 2 h 2 v -2 z m 12,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10725"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-684 v 2 h 2 v -2 z m 13,0 v 2 h 2 v -2 z m -13,13 v 2 h 2 v -2 z m 13,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10733"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1907,-684 v 2 h 2 v -2 z m 14,0 v 2 h 2 v -2 z m -14,14 v 2 h 2 v -2 z m 14,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10741"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1867,-684 v 2 h 2 v -2 z m 15,0 v 2 h 2 v -2 z m -15,15 v 2 h 2 v -2 z m 15,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10749"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1827,-684 v 2 h 2 v -2 z m 16,0 v 2 h 2 v -2 z m -16,16 v 2 h 2 v -2 z m 16,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10757"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1787,-684 v 2 h 2 v -2 z m 17,0 v 2 h 2 v -2 z m -17,17 v 2 h 2 v -2 z m 17,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10765"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1747,-684 v 2 h 2 v -2 z m 18,0 v 2 h 2 v -2 z m -18,18 v 2 h 2 v -2 z m 18,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10773"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1697,-684 v 2 h 2 v -2 z m 19,0 v 2 h 2 v -2 z m -19,19 v 2 h 2 v -2 z m 19,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10781"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1647,-684 v 2 h 2 v -2 z m 20,0 v 2 h 2 v -2 z m -20,20 v 2 h 2 v -2 z m 20,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10789"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1597,-684 v 2 h 2 v -2 z m 21,0 v 2 h 2 v -2 z m -21,21 v 2 h 2 v -2 z m 21,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10797"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1547,-684 v 2 h 2 v -2 z m 22,0 v 2 h 2 v -2 z m -22,22 v 2 h 2 v -2 z m 22,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10805"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-634 v 2 h 2 v -2 z m 23,0 v 2 h 2 v -2 z m -23,23 v 2 h 2 v -2 z m 23,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10813"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1897,-634 v 2 h 2 v -2 z m 24,0 v 2 h 2 v -2 z m -24,24 v 2 h 2 v -2 z m 24,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10821"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1847,-634 v 2 h 2 v -2 z m 25,0 v 2 h 2 v -2 z m -25,25 v 2 h 2 v -2 z m 25,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10829"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1797,-634 v 2 h 2 v -2 z m 26,0 v 2 h 2 v -2 z m -26,26 v 2 h 2 v -2 z m 26,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10837"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1747,-634 v 2 h 2 v -2 z m 27,0 v 2 h 2 v -2 z m -27,27 v 2 h 2 v -2 z m 27,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10845"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1697,-634 v 2 h 2 v -2 z m 28,0 v 2 h 2 v -2 z m -28,28 v 2 h 2 v -2 z m 28,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10853"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1637,-634 v 2 h 2 v -2 z m 29,0 v 2 h 2 v -2 z m -29,29 v 2 h 2 v -2 z m 29,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10861"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1577,-634 v 2 h 2 v -2 z m 30,0 v 2 h 2 v -2 z m -30,30 v 2 h 2 v -2 z m 30,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10869"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1517,-634 v 2 h 2 v -2 z m 31,0 v 2 h 2 v -2 z m -31,31 v 2 h 2 v -2 z m 31,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10877"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1457,-634 v 2 h 2 v -2 z m 32,0 v 2 h 2 v -2 z m -32,32 v 2 h 2 v -2 z m 32,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10885"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-564 v 2 h 2 v -2 z m 33,0 v 2 h 2 v -2 z m -33,33 v 2 h 2 v -2 z m 33,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10893"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1877,-564 v 2 h 2 v -2 z m 34,0 v 2 h 2 v -2 z m -34,34 v 2 h 2 v -2 z m 34,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10901"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1817,-564 v 2 h 2 v -2 z m 35,0 v 2 h 2 v -2 z m -35,35 v 2 h 2 v -2 z m 35,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10909"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1747,-564 v 2 h 2 v -2 z m 36,0 v 2 h 2 v -2 z m -36,36 v 2 h 2 v -2 z m 36,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10917"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1677,-564 v 2 h 2 v -2 z m 37,0 v 2 h 2 v -2 z m -37,37 v 2 h 2 v -2 z m 37,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10925"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1607,-564 v 2 h 2 v -2 z m 38,0 v 2 h 2 v -2 z m -38,38 v 2 h 2 v -2 z m 38,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10933"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1537,-564 v 2 h 2 v -2 z m 39,0 v 2 h 2 v -2 z m -39,39 v 2 h 2 v -2 z m 39,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10941"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1467,-564 v 2 h 2 v -2 z m 40,0 v 2 h 2 v -2 z m -40,40 v 2 h 2 v -2 z m 40,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10949"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1387,-564 v 2 h 2 v -2 z m 41,0 v 2 h 2 v -2 z m -41,41 v 2 h 2 v -2 z m 41,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10957"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1317,-564 v 2 h 2 v -2 z m 42,0 v 2 h 2 v -2 z m -42,42 v 2 h 2 v -2 z m 42,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10965"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-484 v 2 h 2 v -2 z m 43,0 v 2 h 2 v -2 z m -43,43 v 2 h 2 v -2 z m 43,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10973"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1867,-484 v 2 h 2 v -2 z m 44,0 v 2 h 2 v -2 z m -44,44 v 2 h 2 v -2 z m 44,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10981"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1787,-484 v 2 h 2 v -2 z m 45,0 v 2 h 2 v -2 z m -45,45 v 2 h 2 v -2 z m 45,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10989"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1707,-484 v 2 h 2 v -2 z m 46,0 v 2 h 2 v -2 z m -46,46 v 2 h 2 v -2 z m 46,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect10997"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1627,-484 v 2 h 2 v -2 z m 47,0 v 2 h 2 v -2 z m -47,47 v 2 h 2 v -2 z m 47,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11005"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1547,-484 v 2 h 2 v -2 z m 48,0 v 2 h 2 v -2 z m -48,48 v 2 h 2 v -2 z m 48,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11013"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1457,-484 v 2 h 2 v -2 z m 49,0 v 2 h 2 v -2 z m -49,49 v 2 h 2 v -2 z m 49,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11021"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1367,-484 v 2 h 2 v -2 z m 50,0 v 2 h 2 v -2 z m -50,50 v 2 h 2 v -2 z m 50,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11029"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1277,-484 v 2 h 2 v -2 z m 51,0 v 2 h 2 v -2 z m -51,51 v 2 h 2 v -2 z m 51,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11037"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1187,-484 v 2 h 2 v -2 z m 52,0 v 2 h 2 v -2 z m -52,52 v 2 h 2 v -2 z m 52,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11045"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-384 v 2 h 2 v -2 z m 53,0 v 2 h 2 v -2 z m -53,53 v 2 h 2 v -2 z m 53,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11053"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1847,-384 v 2 h 2 v -2 z m 54,0 v 2 h 2 v -2 z m -54,54 v 2 h 2 v -2 z m 54,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11061"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1747,-384 v 2 h 2 v -2 z m 55,0 v 2 h 2 v -2 z m -55,55 v 2 h 2 v -2 z m 55,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11069"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1647,-384 v 2 h 2 v -2 z m 56,0 v 2 h 2 v -2 z m -56,56 v 2 h 2 v -2 z m 56,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11077"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1547,-384 v 2 h 2 v -2 z m 57,0 v 2 h 2 v -2 z m -57,57 v 2 h 2 v -2 z m 57,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11085"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1437,-384 v 2 h 2 v -2 z m 58,0 v 2 h 2 v -2 z m -58,58 v 2 h 2 v -2 z m 58,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11093"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1327,-384 v 2 h 2 v -2 z m 59,0 v 2 h 2 v -2 z m -59,59 v 2 h 2 v -2 z m 59,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11101"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1217,-384 v 2 h 2 v -2 z m 60,0 v 2 h 2 v -2 z m -60,60 v 2 h 2 v -2 z m 60,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11109"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1107,-384 v 2 h 2 v -2 z m 61,0 v 2 h 2 v -2 z m -61,61 v 2 h 2 v -2 z m 61,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11117"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -997,-384 v 2 h 2 v -2 z m 62,0 v 2 h 2 v -2 z m -62,62 v 2 h 2 v -2 z m 62,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11125"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-274 v 2 h 2 v -2 z m 63,0 v 2 h 2 v -2 z m -63,63 v 2 h 2 v -2 z m 63,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11133"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1837,-274 v 2 h 2 v -2 z m 64,0 v 2 h 2 v -2 z m -64,64 v 2 h 2 v -2 z m 64,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11141"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1727,-274 v 2 h 2 v -2 z m 65,0 v 2 h 2 v -2 z m -65,65 v 2 h 2 v -2 z m 65,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11149"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1607,-274 v 2 h 2 v -2 z m 66,0 v 2 h 2 v -2 z m -66,66 v 2 h 2 v -2 z m 66,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11157"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1487,-274 v 2 h 2 v -2 z m 67,0 v 2 h 2 v -2 z m -67,67 v 2 h 2 v -2 z m 67,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11165"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1367,-274 v 2 h 2 v -2 z m 68,0 v 2 h 2 v -2 z m -68,68 v 2 h 2 v -2 z m 68,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11173"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1247,-274 v 2 h 2 v -2 z m 69,0 v 2 h 2 v -2 z m -69,69 v 2 h 2 v -2 z m 69,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11181"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1127,-274 v 2 h 2 v -2 z m 70,0 v 2 h 2 v -2 z m -70,70 v 2 h 2 v -2 z m 70,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11189"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1007,-274 v 2 h 2 v -2 z m 71,0 v 2 h 2 v -2 z m -71,71 v 2 h 2 v -2 z m 71,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11197"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -887,-274 v 2 h 2 v -2 z m 72,0 v 2 h 2 v -2 z m -72,72 v 2 h 2 v -2 z m 72,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11205"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-144 v 2 h 2 v -2 z m 73,0 v 2 h 2 v -2 z m -73,73 v 2 h 2 v -2 z m 73,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11213"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1827,-144 v 2 h 2 v -2 z m 74,0 v 2 h 2 v -2 z m -74,74 v 2 h 2 v -2 z m 74,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11221"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1697,-144 v 2 h 2 v -2 z m 75,0 v 2 h 2 v -2 z m -75,75 v 2 h 2 v -2 z m 75,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11229"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1567,-144 v 2 h 2 v -2 z m 76,0 v 2 h 2 v -2 z m -76,76 v 2 h 2 v -2 z m 76,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11237"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1427,-144 v 2 h 2 v -2 z m 77,0 v 2 h 2 v -2 z m -77,77 v 2 h 2 v -2 z m 77,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11245"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1287,-144 v 2 h 2 v -2 z m 78,0 v 2 h 2 v -2 z m -78,78 v 2 h 2 v -2 z m 78,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11253"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1157,-144 v 2 h 2 v -2 z m 79,0 v 2 h 2 v -2 z m -79,79 v 2 h 2 v -2 z m 79,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11261"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1017,-144 v 2 h 2 v -2 z m 80,0 v 2 h 2 v -2 z m -80,80 v 2 h 2 v -2 z m 80,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11269"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -877,-144 v 2 h 2 v -2 z m 81,0 v 2 h 2 v -2 z m -81,81 v 2 h 2 v -2 z m 81,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11277"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -747,-144 v 2 h 2 v -2 z m 82,0 v 2 h 2 v -2 z m -82,82 v 2 h 2 v -2 z m 82,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11285"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1947,-4 v 2 h 2 v -2 z m 83,0 v 2 h 2 v -2 z m -83,83 v 2 h 2 v -2 z m 83,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11293"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1817,-4 v 2 h 2 v -2 z m 84,0 v 2 h 2 v -2 z m -84,84 v 2 h 2 v -2 z m 84,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11301"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1677,-4 v 2 h 2 v -2 z m 85,0 v 2 h 2 v -2 z m -85,85 v 2 h 2 v -2 z m 85,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11309"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1537,-4 v 2 h 2 v -2 z m 86,0 v 2 h 2 v -2 z m -86,86 v 2 h 2 v -2 z m 86,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11317"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1397,-4 v 2 h 2 v -2 z m 87,0 v 2 h 2 v -2 z m -87,87 v 2 h 2 v -2 z m 87,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11325"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1247,-4 v 2 h 2 v -2 z m 88,0 v 2 h 2 v -2 z m -88,88 v 2 h 2 v -2 z m 88,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11333"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1097,-4 v 2 h 2 v -2 z m 89,0 v 2 h 2 v -2 z m -89,89 v 2 h 2 v -2 z m 89,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11341"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -957,-4 v 2 h 2 v -2 z m 90,0 v 2 h 2 v -2 z m -90,90 v 2 h 2 v -2 z m 90,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11349"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -807,-4 v 2 h 2 v -2 z m 91,0 v 2 h 2 v -2 z m -91,91 v 2 h 2 v -2 z m 91,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11357"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -657,-4 v 2 h 2 v -2 z m 92,0 v 2 h 2 v -2 z m -92,92 v 2 h 2 v -2 z m 92,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11365"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1958,146 v 2 h 2 v -2 z m 93,0 v 2 h 2 v -2 z m -93,93 v 2 h 2 v -2 z m 93,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11373"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1818,146 v 2 h 2 v -2 z m 94,0 v 2 h 2 v -2 z m -94,94 v 2 h 2 v -2 z m 94,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11381"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1678,146 v 2 h 2 v -2 z m 95,0 v 2 h 2 v -2 z m -95,95 v 2 h 2 v -2 z m 95,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11389"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1538,146 v 2 h 2 v -2 z m 96,0 v 2 h 2 v -2 z m -96,96 v 2 h 2 v -2 z m 96,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11397"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1388,146 v 2 h 2 v -2 z m 97,0 v 2 h 2 v -2 z m -97,97 v 2 h 2 v -2 z m 97,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11405"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1238,146 v 2 h 2 v -2 z m 98,0 v 2 h 2 v -2 z m -98,98 v 2 h 2 v -2 z m 98,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11413"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -1098,146 v 2 h 2 v -2 z m 99,0 v 2 h 2 v -2 z m -99,99 v 2 h 2 v -2 z m 99,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11421"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -948,146 v 2 h 2 v -2 z m 100,0 v 2 h 2 v -2 z m -100,100 v 2 h 2 v -2 z m 100,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11437"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -798,146 v 2 h 2 v -2 z m 102,0 v 2 h 2 v -2 z m -102,102 v 2 h 2 v -2 z m 102,0 v 2 h 2 v -2 z" />
+    <path
+       id="rect11429"
+       style="color:#000000;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-dashoffset:10;paint-order:stroke fill markers"
+       d="m -658,146 v 2 h 2 v -2 z m 101,0 v 2 h 2 v -2 z m -101,101 v 2 h 2 v -2 z m 101,0 v 2 h 2 v -2 z" />
+  </g>
+  <metadata
+     id="metadata130443">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Roberto Mocci</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>public domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:coverage>https://patreon.com/rmocci</dc:coverage>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Square</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
